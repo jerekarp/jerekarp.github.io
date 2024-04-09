@@ -5,7 +5,7 @@
 
 ---
 
-**UC_3 Sovelluksen käyttö-ohjeisiin peehtyminen**
+**UC_3 Sovelluksen käyttö-ohjeisiin perehtyminen**
 
 - [User Manual Report](https://jerekarp.github.io/user_manual_report.html)
 - [User Manual Log](https://jerekarp.github.io/user_manual_log.html)
