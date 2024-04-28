@@ -1,3 +1,5 @@
+### FRONT testit
+
 **UC_2 Kirjautuminen sovellukseen**
 
 - [Login Report](https://jerekarp.github.io/)
@@ -45,3 +47,13 @@
 - [LogOut Report](https://jerekarp.github.io/logout_report.html)
 - [LogOut Log](https://jerekarp.github.io/logout_log.html)
 
+
+### BACK testit
+
+- [OpenAI Api Report](https://jerekarp.github.io/openai_report.html)
+- [OpenAI Api Log](https://jerekarp.github.io/openai_log.html)
+
+- [Muokkaa päiväkirjamerkintä Report](https://jerekarp.github.io/muokkaa_merkinta_report.html)
+  
+- [Poista päiväkirjamerkintä Report](https://jerekarp.github.io/poista_merkinta_report.html)
+- [Poista päiväkirjamerkintä Log](https://jerekarp.github.io/poista_merkinta_log.html)
