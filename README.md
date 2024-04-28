@@ -26,6 +26,13 @@
 
 ---
 
+**UC_7 Päiväkirjamerkintöjen lisääminen**
+
+- [Diary Report](https://jerekarp.github.io/diary-report.html)
+- [Diary Log](https://jerekarp.github.io/diary-log.html)
+
+---
+
 **UC_9 Stressinhalinta-työkaluihin perehtyminen**
 
 - [Tools Report](https://jerekarp.github.io/tools_report.html)
