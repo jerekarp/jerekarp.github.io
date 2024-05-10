@@ -30,8 +30,11 @@
 
 **UC_7 Päiväkirjamerkintöjen lisääminen**
 
-- [Diary Report](https://jerekarp.github.io/diary-report.html)
+- [Diary Report]([https://jerekarp.github.io/diary-report.html](https://jerekarp.github.io/diary-report.html))
 - [Diary Log](https://jerekarp.github.io/diary-log.html)
+
+- [Diary Update Report](https://jerekarp.github.io/updateDiaryForm-report.html)
+- [Diary Update Log](https://jerekarp.github.io/updateDiaryForm-log.html)
 
 ---
 
